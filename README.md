@@ -1,5 +1,8 @@
 # html5.vim
 
+Fixed:
+![](http://ww1.sinaimg.cn/large/744e593bgw1espz3wu3nxj209i0bv3ze.jpg)
+
 HTML5 + inline SVG omnicomplete function, indent and syntax for Vim.
 Based on the default htmlcomplete.vim.
 
